@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1FFLyG5kzb20niW6grB2M-io-YV9GwRbN/view?usp=share
 * Update function - If there is any change in the donated blood details, the admin can update the same.
 
 ### AWS Services used - 
-* [Lambda]([https://flutter.dev/](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)) : For writing the backend logic
+* [Lambda](https://flutter.dev/](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) : For writing the backend logic
 * [API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html) : For managing the APIs of the application
 * [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html) : For storing the NoSQl data
 * [CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/getting-started.html) : For storing the code of the application
